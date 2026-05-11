@@ -48,9 +48,9 @@ I started coding at 16 with C++, and now I work with **Python**, **C++**, **Deep
 ## 📫 How to reach me / راه‌های ارتباطی
 
   [Email](FANTOMafk@proton.me)  
-(فعلاً فقط ایمیل و لینکدین – بقیه رو بعداً اضافه می‌کنم)
 
 ---
 
-> “I’m not a hacker for destruction. I’m a hacker for understanding.”  
-> «هکرم نه برای تخریب، برای فهمیدن.»
+> “"The harder the conflict, the more glorious the triumph." — Thomas Paine
+
+> 「هر چه سختی بیشتر، پیروزی درخشان‌تر」

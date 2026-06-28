@@ -6,12 +6,12 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                          ⚡ CORE IDENTITY                           ║
+║                          ⚡ CORE IDENTITY                            ║
 ║──────────────────────────────────────────────────────────────────────║
-║  ● Age:       20 · Iran                                            ║
-║  ● Role:      Programmer · Network Analyst · Ethical Hacker        ║
-║  ● Focus:     ML/DL Research · Security Engineering · Automation   ║
-║  ● Motto:     "Break it → Understand it → Rebuild it better"       ║
+║  ● Age:       20 · Iran                                              ║
+║  ● Role:      Programmer · Network Analyst · Ethical Hacker          ║
+║  ● Focus:     ML/DL Research · Security Engineering · Automation     ║
+║  ● Motto:     "Break it → Understand it → Rebuild it better"         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 

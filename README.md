@@ -1,56 +1,155 @@
-# 👋 About Me / درباره من
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Programmer%20%7C%20Network%20Analyst%20%7C%20Ethical%20Hacker;Python%20%7C%20C%2B%2B%20%7C%20Deep%20Learning%20%7C%20Security;Breaking%20systems%20to%20master%20them...;20%20y.o.%20%7C%20Iran%20%7C%20Freedom%20Advocate" alt="Typing SVG" />
+</p>
+---
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                          ⚡ CORE IDENTITY                           ║
+║──────────────────────────────────────────────────────────────────────║
+║  ● Age:       20 · Iran                                            ║
+║  ● Role:      Programmer · Network Analyst · Ethical Hacker        ║
+║  ● Focus:     ML/DL Research · Security Engineering · Automation   ║
+║  ● Motto:     "Break it → Understand it → Rebuild it better"       ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🇬🇧 English
+## 🇬🇧 ENGLISH SECTION
 
-Hi! I'm a 20-year-old programmer, network analyst, and ethical hacker.  
-I started coding at 16 with C++, and now I work with **Python**, **C++**, **Deep Learning**, **Machine Learning**, **Data Analysis**, **Network Security**, and **Penetration Testing**.
+### 🧠 Who Am I
 
-🔧 **What I do:**  
-- Write scripts for automation, security testing, and network analysis  
-- Analyze network traffic with **Wireshark** and **Scapy**  
-- Build ML/DL models using **TensorFlow**, **PyTorch**, **Pandas**, **NumPy**  
-- Work with **Kali Linux**, **TOR**, and bypass restrictions (I'm a strong believer in a free Internet)  
-- Understand malware behavior (and write experimental ones to learn deeper)
-
-🌐 I live in Iran with heavy internet censorship, but I always find my way to access knowledge freely.  
-💡 Curiosity is my engine. Breaking things to understand them, then rebuilding better.
+> 20-year-old programmer, network analyst, and ethical hacker from Iran.  
+> Started coding at **16** with **C++** — now operating across the full stack of security, AI, and infrastructure.
 
 ---
 
-## 🇮🇷 فارسی
+### ⚔️Domains
 
-سلام! من یک برنامه‌نویس ۲۰ ساله، تحلیلگر شبکه و هکر اخلاقی هستم.  
-از ۱۶ سالگی با C++ شروع کردم و الان با **پایتون**، **یادگیری عمیق**، **یادگیری ماشین**، **تحلیل داده**، **امنیت شبکه** و **نفوذ اخلاقی** کار می‌کنم.
+| Domain | Arsenal |
+|:-------|:--------|
+| 🔐 **Security** | Pentesting, Malware Analysis, Wireshark, Scapy, Kali Linux |
+| 🤖 **AI / ML** | TensorFlow, PyTorch, Pandas, NumPy, Scikit-Learn |
+| 💻 **Development** | Python, C++, JavaScript, Bash, PHP, Automation |
+| 🌐 **Infrastructure** | Docker, Git, Linux, Windows, TOR, Network Analysis |
 
-🔧 **کارهایی که بلدم:**  
-- نوشتن اسکریپت برای اتوماسیون، تست امنیت و تحلیل شبکه  
-- تحلیل ترافیک با **Wireshark** و **Scapy**  
-- ساخت مدل‌های یادگیری ماشین و عمیق با **TensorFlow**، **PyTorch**، **Pandas**، **NumPy**  
-- کار با **کالی لینوکس**، **تور (TOR)** و دور زدن محدودیت‌ها (من به اینترنت آزاد اعتقاد دارم)  
-- درک رفتار بدافزارها (و حتی نوشتن بدافزارهای آزمایشی برای یادگیری عمیق‌تر)
-
-🌐 در ایران زندگی می‌کنم با شدیدترین فیلترها، اما همیشه راهی برای دسترسی آزاد به دانش پیدا می‌کنم.  
-💡 موتور محرک من کنجکاوی است. چیزها را می‌شکنم تا بفهمم، سپس بهترشان می‌سازم.
+> *Living under heavy internet censorship only sharpens the blade.  
+> Restrictions breed creativity. Censorship fuels curiosity.*
 
 ---
 
-## 🛠️ Tech Stack / مهارت‌ها
+### 🛠️ Tech Stack
 
-`Python` `C++` `JavaScript` `HTML/CSS` `PHP` `Bash`  
-`TensorFlow` `PyTorch` `Pandas` `NumPy`  
-`Wireshark` `Scapy` `Kali Linux` `TOR`  
-`Git` `Docker` `Linux` `Windows Terminal`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 📫 How to reach me / راه‌های ارتباطی
+### 📊 GitHub Analytics
 
-  [Email](FANTOMafk@proton.me)  
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FANTOM-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FANTOM-afk&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=FANTOM-afk&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-> “"The harder the conflict, the more glorious the triumph." — Thomas Paine
+### 📬 Contact
 
-> 「هر چه سختی بیشتر، پیروزی درخشان‌تر」
+<p align="center">
+  <a href="mailto:FANTOMafk@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-FANTOMafk@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FANTOMafk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+```text
+═══════════════════════════════════════════════════════════════════════
+                 END OF ENGLISH · آغاز بخش فارسی
+═══════════════════════════════════════════════════════════════════════
+```
+
+---
+
+## 🇮🇷 بخش فارسی
+
+### 🧠 درباره من
+
+> یک برنامه‌نویس ۲۰ ساله، تحلیلگر شبکه و هکر اخلاقی از ایران.  
+> از **۱۶** سالگی با **C++** شروع کردم — و حالا در طیف وسیعی از امنیت، هوش مصنوعی و زیرساخت فعالیت می‌کنم.
+
+---
+
+### ⚔️ حوزه‌ها
+
+| حوزه | تجهیزات |
+|:-----|:--------|
+| 🔐 **امنیت** | تست نفوذ، تحلیل بدافزار، Wireshark، Scapy، Kali Linux |
+| 🤖 **هوش مصنوعی** | TensorFlow، PyTorch، Pandas، NumPy، Scikit-Learn |
+| 💻 **توسعه** | Python، C++، JavaScript، Bash، PHP، اتوماسیون |
+| 🌐 **زیرساخت** | Docker، Git، Linux، Windows، TOR، تحلیل شبکه |
+
+> *زندگی زیر سنگین‌ترین سانسور اینترنت، تیغ را تیزتر می‌کند.  
+> محدودیت باعث خلاقیت می‌شود. سانسور، کنجکاوی را شعله‌ور می‌کند.*
+
+---
+
+### 📊 آمار گیت‌هاب
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FANTOM-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FANTOM-afk&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=FANTOM-afk&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📬 تماس
+
+<p align="center">
+  <a href="mailto:FANTOMafk@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-FANTOMafk@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FANTOMafk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+  <b>«هرچه نبرد سخت‌تر، پیروزی شکوهمندتر»</b><br/>
+  <i>— توماس پین</i>
+  <br/><br/>
+  <b>«The harder the conflict, the more glorious the triumph»</b><br/>
+  <i>— Thomas Paine</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=FANTOMafk&style=flat-square&color=00D9FF" />
+</p>
